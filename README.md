@@ -17,4 +17,4 @@ Capture all the subheadings on the article and insert Id's for each of it on the
 5. git status - Check if there is some changes that needs to add / commit
 6. git add * - add the changes to the branch
 7. git commit -m - commit the changes to the branch // the local branch is ahead to the local master
-7. 
+8. git push origin branch-name-local - push the branch to the origin (github) 
