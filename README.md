@@ -20,4 +20,5 @@ Capture all the subheadings on the article and insert Id's for each of it on the
 08. git push origin branch-name-local - push the branch to the origin (github) OR
 09. git merge branch-name-local & git branch -d branch-name - Merge and delete the branch
 10. git push origin - push the local master to origin master
+11. git push origin --delete branch-name - this is the drawback of pushing from command line.
 
