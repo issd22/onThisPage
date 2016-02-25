@@ -10,11 +10,14 @@ Capture all the subheadings on the article and insert Id's for each of it on the
 
 ## Branching exercise
 
-1. git status - Check the branch that currently on
-2. git branch branch-name-local - Create a branch
-3. git branch - display all the branch
-4. git checkout branch-name-local - switch to the branch then make some update
-5. git status - Check if there is some changes that needs to add / commit
-6. git add * - add the changes to the branch
-7. git commit -m - commit the changes to the branch // the local branch is ahead to the local master
-8. git push origin branch-name-local - push the branch to the origin (github) 
+01. git status - Check the branch that currently on
+02. git branch branch-name-local - Create a branch
+03. git branch - display all the branch
+04. git checkout branch-name-local - switch to the branch then make some update
+05. git status - Check if there is some changes that needs to add / commit
+06. git add * - add the changes to the branch
+07. git commit -m - commit the changes to the branch // the local branch is ahead to the local master
+08. git push origin branch-name-local - push the branch to the origin (github) OR
+09. git merge branch-name-local & git branch -d branch-name - Merge and delete the branch
+10. git push origin - push the local master to origin master
+
