@@ -1,0 +1,19 @@
+{
+  "name": "onthispage",
+  "version": "1.0.0",
+  "description": "loads available content's subheading into a div container, turn into a list of links ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igMarketingLeonor/onThisPage.git"
+  },
+  "author": "Romeo Leonor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igMarketingLeonor/onThisPage/issues"
+  },
+  "homepage": "https://github.com/igMarketingLeonor/onThisPage#readme"
+}
